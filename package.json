@@ -12,7 +12,8 @@
   },
   "preferGlobal": true,
   "bin": {
-    "connect": "connect.js"
+    "setup": "commands/setup.js",
+    "connect": "commands/connect.js"
   },
   "readmeFilename": "Readme.md",
   "engines": {
